@@ -1,0 +1,16 @@
+p{
+  margin-top: 0;
+  margin-bottom: 0;
+  }
+
+body{
+  /*  This style below will be inherited*/
+  font-family: Roboto, Arial;
+  margin:0;
+  padding: 80px 24px 0px 96px;
+  
+  background-color: rgb(246, 241, 241);
+}
+.video-grid img,p{
+  cursor: pointer;
+}
